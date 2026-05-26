@@ -1,0 +1,11 @@
+// add two numbers and print the result
+#include<stdio.h>
+int main()
+{
+    int i = 10 ,j = 11 , ans = 0;
+ 
+    ans = i+j;
+    printf("addition is : %d\n",ans);
+
+    return 0;
+}
